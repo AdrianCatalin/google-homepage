@@ -1,0 +1,76 @@
+.navbar {
+    position: absolute;
+    left: 60%;
+    font-size: 12px;
+    right: 0;
+    left: 80%;
+    top: 0;
+    width: 100%;
+}
+
+.menu, .dog {
+    margin: 10px;
+}
+
+.menu {
+    background-image: url("assets/squared-icon.png");
+    background-size: 100%;
+    
+}
+
+.dog {
+    background-image: url(assets/DSC_0013.JPG);
+    background-size: 100%;
+    border-radius: 30px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    text-align: right;
+    display: block;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.logo, .searchbar, .but1, .footer {
+    text-align: center;
+}
+
+.logo {
+    background-image: white;
+    margin: 100px;
+}
+
+input {
+    position: absolute;
+    left:35%;
+    top: 40%;
+    width: 30%;
+    height: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+
+.but1 { 
+    position: relative;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
+
+
